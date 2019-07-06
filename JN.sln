@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JN", "JN\JN.csproj", "{B8559C52-0C79-44F0-A358-5F345C439906}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JN.Web.API", "JN\JN.Web.API.csproj", "{B8559C52-0C79-44F0-A358-5F345C439906}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
